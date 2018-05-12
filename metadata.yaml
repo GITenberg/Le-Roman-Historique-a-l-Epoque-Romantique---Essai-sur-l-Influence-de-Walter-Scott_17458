@@ -1,0 +1,28 @@
+_repo: Le-Roman-Historique-a-l-Epoque-Romantique---Essai-sur-l-Influence-de-Walter-Scott_17458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maigron, Louis
+    birthdate: 1866
+    gutenberg_agent_id: '7402'
+    url: http://www.gutenberg.org/2009/agents/7402
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17458'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction, French -- History and criticism'
+- !lcc 'PQ'
+- !lcsh 'Scott, Walter, 1771-1832 -- Influence'
+title: Le Roman Historique a l'Epoque Romantique - Essai sur l'Influence de Walter
+  Scott
+url: http://www.gutenberg.org/ebooks/17458
