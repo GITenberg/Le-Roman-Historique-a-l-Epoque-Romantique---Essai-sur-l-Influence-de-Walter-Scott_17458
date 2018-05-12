@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7402'
     url: http://www.gutenberg.org/2009/agents/7402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17458#Le-Roman-Historique-a-l-Epoque-Romantique---Essai-sur-l-Influence-de-Walter-Scott
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-04'
 gutenberg_type: Text
